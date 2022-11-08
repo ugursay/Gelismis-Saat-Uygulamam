@@ -1,0 +1,42 @@
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\zaman hesaplayıcı.exe.config
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\zaman hesaplayıcı.exe
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\zaman hesaplayıcı.pdb
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.csprojResolveAssemblyReference.cache
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman_hesaplayıcı.Form1.resources
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman_hesaplayıcı.Properties.Resources.resources
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.csproj.GenerateResource.Cache
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.exe
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.pdb
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\Interop.WMPLib.dll
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\Interop.WMPLib.dll
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\uğur\Desktop\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.csproj.ResolveComReference.cache
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\zaman hesaplayıcı.exe.config
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\Interop.WMPLib.dll
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\AxInterop.WMPLib.dll
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.csproj.ResolveComReference.cache
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.exe
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.pdb
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\zaman hesaplayıcı.exe
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\zaman hesaplayıcı.pdb
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\Interop.WMPLib.dll
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\AxInterop.WMPLib.dll
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.csprojResolveAssemblyReference.cache
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman_hesaplayıcı.Form1.resources
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman_hesaplayıcı.Properties.Resources.resources
+D:\Uğur\evde yaptığım programlar\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.csproj.GenerateResource.Cache
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\zaman hesaplayıcı.exe.config
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\Interop.WMPLib.dll
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.csproj.ResolveComReference.cache
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.exe
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.pdb
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\zaman hesaplayıcı.exe
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\zaman hesaplayıcı.pdb
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\Interop.WMPLib.dll
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.csprojResolveAssemblyReference.cache
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman_hesaplayıcı.Form1.resources
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman_hesaplayıcı.Properties.Resources.resources
+C:\Users\uğur\Desktop\c#\zaman hesaplayıcı - Kopya\zaman hesaplayıcı\obj\Debug\zaman hesaplayıcı.csproj.GenerateResource.Cache
